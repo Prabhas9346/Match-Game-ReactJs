@@ -1,0 +1,54 @@
+.scoreCardBox {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+  background-size: cover;
+
+  width: 70vw;
+
+  margin: 2.5vw;
+  border-radius: 2.5%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  align-self: center;
+  padding: 1vw;
+}
+.trophyImg {
+  width: 60vw;
+  margin-top: 25vw;
+}
+.yourScoreTxt {
+  color: #ffffff;
+  font-size: 2vw;
+  font-weight: 500;
+}
+.scoreTxt {
+  color: #ffffff;
+  font-size: 4.8vw;
+  font-weight: 500;
+  margin: 2vw;
+}
+.resetBtnBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.resetBtn {
+  justify-content: center;
+  background-color: #cf60c8;
+  color: #ffffff;
+  font-size: 2vw;
+  font-weight: 500;
+  outline: none;
+  border: none;
+  padding: 1vw;
+  border-radius: 5%;
+  margin: 2vw;
+  cursor: pointer;
+}
+.resetImg {
+  width: 2.5vw;
+  margin-right: 1vw;
+}

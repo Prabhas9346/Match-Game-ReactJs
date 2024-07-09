@@ -1,0 +1,35 @@
+nav {
+  background-color: #2c0e3a;
+  padding: 0.5vw;
+  align-items: center;
+}
+.HeaderList {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+
+  align-items: center;
+}
+.logoImg {
+  width: 15vw;
+}
+.TimerBox {
+  display: flex;
+  align-items: center;
+}
+.TimerBoxSub {
+  display: flex;
+  align-items: center;
+  margin: 1vw;
+  color: #fec653;
+  font-weight: 500;
+}
+.timerImg {
+  width: 2vw;
+  height: 2vw;
+  margin: 0.5vw;
+}
+span {
+  color: #fec653;
+  font-weight: 500;
+}

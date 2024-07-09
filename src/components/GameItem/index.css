@@ -1,0 +1,20 @@
+.thumbnailImgBox {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: center;
+  text-align: center;
+}
+.gameBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: auto;
+}
+.mainImg {
+  width: 60vw;
+  margin: 1vw;
+  margin-top: 5vw;
+}

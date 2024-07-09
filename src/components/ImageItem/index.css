@@ -1,0 +1,12 @@
+.ImgBtn {
+  outline: none;
+  padding: 0%;
+  background-color: transparent;
+  border: none;
+  border-radius: 1vw;
+  margin: 1vw;
+  cursor: pointer;
+}
+.thumbnailImg {
+  width: 15vw;
+}

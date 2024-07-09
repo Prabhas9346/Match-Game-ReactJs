@@ -1,0 +1,18 @@
+.tabsList {
+  color: #ffffff;
+}
+.tabsBtn {
+  color: #ffffff;
+  outline: none;
+  padding: 0%;
+  border: none;
+  background-color: transparent;
+  font-size: 2.4vw;
+  font-weight: 500;
+  margin: 1vw;
+  cursor: pointer;
+}
+.activeTabBtn {
+  color: #fec653;
+  border-bottom: solid 0.25vw #fec653;
+}
